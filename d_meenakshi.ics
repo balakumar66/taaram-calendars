@@ -6,34 +6,10 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-WR-CALNAME:Taaram - Madurai Meenakshi (Seattle\, WA)
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Navaratri begins
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-DTSTAMP:20261010T151708Z
-UID:obs-2026-10-11-navaratri@tamil-star-calendar
-DESCRIPTION:நவராத்திரி ஆரம்பம்
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:In 7 days: Navaratri begins
-TRIGGER:-P6DT17H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:In 2 days: Navaratri begins
-TRIGGER:-P1DT17H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Today: Navaratri begins
-TRIGGER:PT7H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Madurai Meenakshi Pattabhishekam
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
-DTSTAMP:20261010T151708Z
+DTSTAMP:20261014T054619Z
 UID:obs-2027-04-16-meenakshi_pattabhishekam@tamil-star-calendar
 DESCRIPTION:மீனாட்சி பட்டாபிஷேகம்\
  nApproximate (rule of thumb) - the temple announces the exact schedule
@@ -58,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:Madurai Meenakshi Thirukalyanam
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
-DTSTAMP:20261010T151708Z
+DTSTAMP:20261014T054619Z
 UID:obs-2027-04-18-meenakshi_thirukalyanam@tamil-star-calendar
 DESCRIPTION:மதுரை மீனாட்சி திருக்க
  ல்யாணம்\nApproximate (rule of thumb) - the temple announces 
@@ -84,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Kallazhagar enters Vaigai (Madurai)
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270420
-DTSTAMP:20261010T151708Z
+DTSTAMP:20261014T054619Z
 UID:obs-2027-04-19-alagar_vaigai@tamil-star-calendar
 DESCRIPTION:அழகர் ஆற்றில் இறங்குதல
  ்\nApproximate (rule of thumb) - the temple announces the exact schedule
@@ -109,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Madurai Meenakshi Therottam (car festival)
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270420
-DTSTAMP:20261010T151708Z
+DTSTAMP:20261014T054619Z
 UID:obs-2027-04-19-meenakshi_therottam@tamil-star-calendar
 DESCRIPTION:மீனாட்சி தேரோட்டம்\nApproxim
  ate (rule of thumb) - the temple announces the exact schedule
@@ -134,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Aadi Pooram
 DTSTART;VALUE=DATE:20270804
 DTEND;VALUE=DATE:20270805
-DTSTAMP:20261010T151708Z
+DTSTAMP:20261014T054619Z
 UID:obs-2027-08-04-aadi_pooram@tamil-star-calendar
 DESCRIPTION:ஆடிப்பூரம்
 TRANSP:TRANSPARENT
@@ -158,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Aavani Moolam (Madurai)
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270909
-DTSTAMP:20261010T151708Z
+DTSTAMP:20261014T054619Z
 UID:obs-2027-09-08-aavani_moolam@tamil-star-calendar
 DESCRIPTION:ஆவணி மூலம்
 TRANSP:TRANSPARENT
@@ -182,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Navaratri begins
 DTSTART;VALUE=DATE:20270930
 DTEND;VALUE=DATE:20271001
-DTSTAMP:20261010T151708Z
+DTSTAMP:20261014T054619Z
 UID:obs-2027-09-30-navaratri@tamil-star-calendar
 DESCRIPTION:நவராத்திரி ஆரம்பம்
 TRANSP:TRANSPARENT
